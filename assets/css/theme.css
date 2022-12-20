@@ -10440,6 +10440,10 @@ body.loaded:after {
   background: rgba(40, 44, 48, 0.5) !important;
 }
 
+.bg-pacto{
+  background: rgba(140, 185, 252, 1.0) !important;
+}
+
 .bg-dark-04 {
   background: rgba(40, 44, 48, 0.4) !important;
 }
@@ -10453,7 +10457,7 @@ body.loaded:after {
 }
 
 .bg-dark-01 {
-  background: rgba(40, 44, 48, 0.1) !important;
+  background: rgba(40, 44, 48, 0.0) !important;
 }
 
 .bg-gray {
